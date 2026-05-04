@@ -15,7 +15,7 @@ This project analyzes the distribution of transaction value of real estate prope
 - Size: 26437 rows
 
 ## Kaggle Notebook📓
-https://www.kaggle.com/code/reshmaharidhas/dubai-real-estate-sales-march-april-2026-analysis/notebook
+https://www.kaggle.com/code/reshmaharidhas/dubai-real-estate-sales-march-april-2026-eda
 
 ## Analysis Workflow💻
 - Exploratory Data Analysis (EDA)
